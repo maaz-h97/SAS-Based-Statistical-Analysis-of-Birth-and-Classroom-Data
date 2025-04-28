@@ -15,10 +15,10 @@ The project demonstrates the application of:
 
 - The project highlights:
 
-Hypothesis testing with T-Tests (e.g., Mother's smoking habits, marital status, baby's gender affecting birth weight)
-Correlation and central tendency analysis
-SAS procedures like PROC IMPORT, PROC TTEST, PROC CORR, PROC MEANS
-Analytical interpretation of large-scale datasets in healthcare and education domains.
+-Hypothesis testing with T-Tests (e.g., Mother's smoking habits, marital status, baby's gender affecting birth weight)
+-Correlation and central tendency analysis
+-SAS procedures like PROC IMPORT, PROC TTEST, PROC CORR, PROC MEANS
+-Analytical interpretation of large-scale datasets in healthcare and education domains.
 
 ## Techniques Used
 - PROC IMPORT
